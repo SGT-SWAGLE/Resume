@@ -1,0 +1,68 @@
+#header {
+    background-color: #CCFF99;
+    box-shadow: 10px 10px 5px;
+      border-radius: 10px;
+    background: #8AC007;
+    padding-left: 20px; 
+    margin-right:5%;
+    margin-left: 5%;
+    width: 90%;
+    position: fixed;
+    z-index: 1;
+}
+
+.left {
+    background-color: #CCFF99;
+    box-shadow: 10px 10px 5px;
+      border-radius: 10px;
+    background: #242424;
+    padding: 2%;
+    width: 15%;
+    height: 500px;
+    float: left;
+    margin-left: 5%;
+    position: absolute;
+    
+}
+
+.right {
+    background-color: #CCFF99;
+    box-shadow: 10px 10px 5px;
+      border-radius: 10px;
+    background: #C1CDE6;
+    padding: 2%; 
+    width: 65%;
+    height: 500px;
+    float: right;
+    margin-right: 5%;
+    position: relative;
+}
+
+#footer {
+    position: relative;
+    z-index: 0;
+    background-color: #CCFF99;
+    box-shadow: 10px 10px 5px;
+      border-radius: 10px;
+    background: #8AC007;
+    padding: 20px; 
+    width: 90%;
+    clear:both;
+    margin-right:5%;
+    margin-left: 5%;
+    
+}
+
+a:link {
+    color: #FFFFFF
+}
+
+a:visited {
+    color: #FFFFFF;
+}
+
+html {
+    background: url(http://s3.amazonaws.com/spoonflower/public/design_thumbnails/0136/6731/rrobot_circut_gray_1_shop_preview.png)
+     fixed; 
+    
+}
